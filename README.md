@@ -21,7 +21,9 @@ Las Categorias que se le puede asignar a la ip son:
 
 ID	Title	Description
 3 	Fraud Orders 	Fraudulent orders.
+
 4 	DDoS Attack 	Participating in distributed denial-of-service (usually part of botnet).
+
 5 	FTP Brute-Force 	
 6 	Ping of Death 	Oversized IP packet.
 7 	Phishing 	Phishing websites and/or email.
