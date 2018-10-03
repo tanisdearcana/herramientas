@@ -12,7 +12,7 @@ Claro tienes que tener permisos para poder borrar esos datos.
 Sencillo script que lanza el escano de vulnerabilidades de nmap contra un objetivo, solo teneis que modificar el PATH donde teneis 
 el script de escano de vulnerabilidades de nmap
 
-# Analis de un IP
+# Analisis de una IP publica
 
 Script que muestra si una ip esta dada de alta como maliciosa en IPABUSE, utiliza uan API que consulta contra la base datos de 
 la web https://www.abuseipdb.com/
@@ -63,5 +63,12 @@ ID	Title	Description
 
 23 	IoT Targeted 	Abuse was targeted at an "Internet of Things" type device. Include information about what type of device was targeted in the comments. 
 
+# Script y fichero con dominios maliciosos
+
+El script se baja la lista de dominos maliciosos de http://malwaredomains.lehigh.edu/files/spywaredomains.zones; dicho script los procesa y le da un formato adecuado
+para incluirlo en pihole
+
+Script - listadominiosmalos.sh
+Fichero - limpiotohole 
 
 Tanis de Arcana

@@ -6,7 +6,7 @@ echo Fichero con listado de dominios con malware descargado......
 echo Espera unos instantes se esta formateando el fichero para que sea admitido por pihole
 echo ........
 #Formatear el fichero a siguiente formato 0.0.0.0 ejemplo.com para que pihole lo admita
-sed -i 's/zone/0.0.0.0/g' dominiosdnsabloquear
+sed -i 's/zone/127.0.0.1/g' dominiosdnsabloquear
 sed -i 's/ "/ /g' dominiosdnsabloquear
 sed -i 's/" / /g' dominiosdnsabloquear
 sed -i 's/{type master; file/ /g' dominiosdnsabloquear
