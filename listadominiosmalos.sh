@@ -14,7 +14,8 @@ sed -i 's/blockeddomain.hosts";}/ /g' dominiosdnsabloquear
 sed -i 's/;/ /g' dominiosdnsabloquear
 sed -i 's/etc/ /g' dominiosdnsabloquear
 sed -i 's/namedb/ /g' dominiosdnsabloquear
-grep -v // dominiosdnsabloquear > limpiotohole
+grep -v // dominiosdnsabloquear > limpio
+awk -F ' ' '{print $1,$2}' limpio > limpiotohole
 rm dominiosdnsabloquear
 
 echo Fin del proceso, se puede subir a github para  que pihole corte estos dominios
