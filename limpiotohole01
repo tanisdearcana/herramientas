@@ -179,6 +179,7 @@
 127.0.0.1 adalliance.io
 127.0.0.1 adap.tv
 127.0.0.1 adapt.tv
+127.0.0.1 adback.co
 127.0.0.1 adbard.net
 127.0.0.1 adblade.com
 127.0.0.1 adblockanalytics.com
@@ -287,6 +288,7 @@
 127.0.0.1 admob.com
 127.0.0.1 admonitor.com
 127.0.0.1 admotion.com.ar
+127.0.0.1 adn.lrb.co.uk
 127.0.0.1 adnet.asahi.com
 127.0.0.1 adnet.biz
 127.0.0.1 adnet.de
@@ -882,7 +884,6 @@
 127.0.0.1 afftracking.justanswer.com
 127.0.0.1 afterview.ru
 127.0.0.1 agkn.com
-127.0.0.1 agreeableprice.com
 127.0.0.1 agreeablestew.com
 127.0.0.1 agreemand.com
 127.0.0.1 ah-ha.com
@@ -926,7 +927,6 @@
 127.0.0.1 appsflyer.com
 127.0.0.1 aps.hearstnp.com
 127.0.0.1 apture.com
-127.0.0.1 apusx.com
 127.0.0.1 aquaticowl.com
 127.0.0.1 ar1nvz5.com
 127.0.0.1 arc1.msn.com
@@ -1229,7 +1229,6 @@
 127.0.0.1 clicks.mods.de
 127.0.0.1 clickserve.cc-dt.com
 127.0.0.1 clicksor.com
-127.0.0.1 clicktag.de
 127.0.0.1 clickthruserver.com
 127.0.0.1 clickthrutraffic.com
 127.0.0.1 clicktrace.info
@@ -1428,6 +1427,7 @@
 127.0.0.1 dq95d35.com
 127.0.0.1 drabsize.com
 127.0.0.1 dragzebra.com
+127.0.0.1 drumcash.com
 127.0.0.1 drydrum.com
 127.0.0.1 dsp.io
 127.0.0.1 dstillery.com
@@ -1681,7 +1681,6 @@
 127.0.0.1 hits.puls.lv
 127.0.0.1 hits.theguardian.com
 127.0.0.1 hits4me.com
-127.0.0.1 hits4pay.com
 127.0.0.1 hitslink.com
 127.0.0.1 hittail.com
 127.0.0.1 hollandbusinessadvertising.nl
@@ -1742,7 +1741,6 @@
 127.0.0.1 incentaclick.com
 127.0.0.1 inclk.com
 127.0.0.1 incognitosearches.com
-127.0.0.1 incrediblesugar.com
 127.0.0.1 indexstats.com
 127.0.0.1 indexww.com
 127.0.0.1 indieclick.com
@@ -1796,6 +1794,7 @@
 127.0.0.1 jcount.com
 127.0.0.1 jinkads.de
 127.0.0.1 joetec.net
+127.0.0.1 jquery-bin.com
 127.0.0.1 js.users.51.la
 127.0.0.1 jsecoin.com
 127.0.0.1 juicyads.com
@@ -2015,6 +2014,7 @@
 127.0.0.1 mycounter.ua
 127.0.0.1 mydas.mobi
 127.0.0.1 mylink-today.com
+127.0.0.1 mymoneymakingapp.com
 127.0.0.1 mypagerank.net
 127.0.0.1 mypagerank.ru
 127.0.0.1 mypowermall.com
@@ -2292,7 +2292,6 @@
 127.0.0.1 qnsr.com
 127.0.0.1 quacksquirrel.com
 127.0.0.1 quaintcan.com
-127.0.0.1 qualtrics.com
 127.0.0.1 quantcast.com
 127.0.0.1 quantcast.mgr.consensu.org
 127.0.0.1 quantserve.com
@@ -2445,6 +2444,7 @@
 127.0.0.1 selectionsugar.com
 127.0.0.1 selectivesummer.com
 127.0.0.1 sendmepixel.com
+127.0.0.1 sendpulse.com
 127.0.0.1 sensismediasmart.com.au
 127.0.0.1 separatesilver.com
 127.0.0.1 serv0.com
@@ -2487,6 +2487,7 @@
 127.0.0.1 sinoa.com
 127.0.0.1 sitedataprocessing.com
 127.0.0.1 siteimproveanalytics.com
+127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 sitemeter.com
 127.0.0.1 sitestat.com
 127.0.0.1 sixscissors.com
@@ -2657,7 +2658,6 @@
 127.0.0.1 temelio.com
 127.0.0.1 tendertest.com
 127.0.0.1 terriblethumb.com
-127.0.0.1 terribleturkey.com
 127.0.0.1 text-link-ads.com
 127.0.0.1 textad.sexsearch.com
 127.0.0.1 textads.biz
@@ -2668,7 +2668,6 @@
 127.0.0.1 theads.me
 127.0.0.1 thebugs.ws
 127.0.0.1 therapistla.com
-127.0.0.1 therichkids.com
 127.0.0.1 thinkablerice.com
 127.0.0.1 thirdrespect.com
 127.0.0.1 thirstytwig.com
