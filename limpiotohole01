@@ -348,7 +348,6 @@
 127.0.0.1 ads.adverline.com
 127.0.0.1 ads.affiliates-spinit.com
 127.0.0.1 ads.affiliates.match.com
-127.0.0.1 ads.allvatar.com
 127.0.0.1 ads.alt.com
 127.0.0.1 ads.amdmb.com
 127.0.0.1 ads.amigos.com
@@ -439,7 +438,6 @@
 127.0.0.1 ads.flooble.com
 127.0.0.1 ads.fool.com
 127.0.0.1 ads.footymad.net
-127.0.0.1 ads.forbes.com
 127.0.0.1 ads.forbes.net
 127.0.0.1 ads.forium.de
 127.0.0.1 ads.fortunecity.com
@@ -940,6 +938,7 @@
 127.0.0.1 apolloprogram.io
 127.0.0.1 app-analytics.snapchat.com
 127.0.0.1 app.pendo.io
+127.0.0.1 appboycdn.com
 127.0.0.1 appsflyer.com
 127.0.0.1 aps.hearstnp.com
 127.0.0.1 apsalar.com
@@ -976,7 +975,6 @@
 127.0.0.1 audit.webinform.hu
 127.0.0.1 augur.io
 127.0.0.1 auto-bannertausch.de
-127.0.0.1 autohits.dk
 127.0.0.1 automaticflock.com
 127.0.0.1 avenuea.com
 127.0.0.1 avocet.io
@@ -1283,7 +1281,6 @@
 127.0.0.1 coinhive.com
 127.0.0.1 cointraffic.io
 127.0.0.1 colonize.com
-127.0.0.1 colpirio.com
 127.0.0.1 comclick.com
 127.0.0.1 comfortablecheese.com
 127.0.0.1 commindo-media-ressourcen.de
@@ -1631,6 +1628,7 @@
 127.0.0.1 gamesites100.net
 127.0.0.1 gamesites200.com
 127.0.0.1 gammamaximum.com
+127.0.0.1 gearwom.de
 127.0.0.1 geo.digitalpoint.com
 127.0.0.1 geobanner.adultfriendfinder.com
 127.0.0.1 geovisite.com
@@ -1712,6 +1710,7 @@
 127.0.0.1 hits4me.com
 127.0.0.1 hitslink.com
 127.0.0.1 hittail.com
+127.0.0.1 hlok.qertewrt.com
 127.0.0.1 hollandbusinessadvertising.nl
 127.0.0.1 hollowshake.com
 127.0.0.1 homepageking.de
@@ -1724,6 +1723,7 @@
 127.0.0.1 hoverowl.com
 127.0.0.1 hs-analytics.net
 127.0.0.1 hsadspixel.net
+127.0.0.1 htlbid.com
 127.0.0.1 htmlhubing.xyz
 127.0.0.1 httpool.com
 127.0.0.1 hud8mxdt.computerhelpmirror.top
@@ -1929,6 +1929,11 @@
 127.0.0.1 logsss.com
 127.0.0.1 logua.com
 127.0.0.1 longinglettuce.com
+127.0.0.1 look.djfiln.com
+127.0.0.1 look.ichlnk.com
+127.0.0.1 look.opskln.com
+127.0.0.1 look.udncoeln.com
+127.0.0.1 look.ufinkln.com
 127.0.0.1 lop.com
 127.0.0.1 loudloss.com
 127.0.0.1 loudlunch.com
@@ -2188,6 +2193,7 @@
 127.0.0.1 openx.angelsgroup.org.uk
 127.0.0.1 operationkettle.com
 127.0.0.1 opienetwork.com
+127.0.0.1 opmnstr.com
 127.0.0.1 optimallimit.com
 127.0.0.1 optimize-stats.voxmedia.com
 127.0.0.1 optimizely.com
@@ -2211,7 +2217,6 @@
 127.0.0.1 pagefair.com
 127.0.0.1 pagefair.net
 127.0.0.1 pagerank-ranking.de
-127.0.0.1 pagerank-submitter.de
 127.0.0.1 pagerank4you.com
 127.0.0.1 pageranktop.com
 127.0.0.1 paleleaf.com
@@ -2380,7 +2385,6 @@
 127.0.0.1 rankchamp.de
 127.0.0.1 ranking-charts.de
 127.0.0.1 ranking-hits.de
-127.0.0.1 ranking-id.de
 127.0.0.1 ranking-links.de
 127.0.0.1 ranking-liste.de
 127.0.0.1 rankingchart.de
@@ -2435,6 +2439,7 @@
 127.0.0.1 remotead.cnet.com
 127.0.0.1 remox.com
 127.0.0.1 republika.onet.pl
+127.0.0.1 research.de.com
 127.0.0.1 resolutekey.com
 127.0.0.1 resonantbrush.com
 127.0.0.1 resonate.com
@@ -2813,7 +2818,6 @@
 127.0.0.1 tracker.trackerfix.com
 127.0.0.1 tracker.vgame.us
 127.0.0.1 tracking.crunchiemedia.com
-127.0.0.1 tracking.discounts-promo.ga
 127.0.0.1 tracking.gajmp.com
 127.0.0.1 tracking.ibxlink.com
 127.0.0.1 tracking.internetstores.de
