@@ -119,6 +119,7 @@
 127.0.0.1 ad.ilove.ch
 127.0.0.1 ad.infoseek.com
 127.0.0.1 ad.intl.xiaomi.com
+127.0.0.1 ad.jacotei.com.br
 127.0.0.1 ad.jamba.net
 127.0.0.1 ad.jamster.co.uk
 127.0.0.1 ad.jetsoftware.com
@@ -140,7 +141,6 @@
 127.0.0.1 ad.preferances.com
 127.0.0.1 ad.profiwin.de
 127.0.0.1 ad.prv.pl
-127.0.0.1 ad.rambler.ru
 127.0.0.1 ad.reunion.com
 127.0.0.1 ad.sensismediasmart.com.au
 127.0.0.1 ad.seznam.cz
@@ -159,6 +159,7 @@
 127.0.0.1 ad.wsod.com
 127.0.0.1 ad.wz.cz
 127.0.0.1 ad.xiaomi.com
+127.0.0.1 ad.xmovies8.si
 127.0.0.1 ad.xrea.com
 127.0.0.1 ad.yadro.ru
 127.0.0.1 ad.yourmedia.com
@@ -185,6 +186,7 @@
 127.0.0.1 adalliance.io
 127.0.0.1 adap.tv
 127.0.0.1 adapt.tv
+127.0.0.1 adaranth.com
 127.0.0.1 adback.co
 127.0.0.1 adblade.com
 127.0.0.1 adblade.org
@@ -316,7 +318,6 @@
 127.0.0.1 adnetworkperformance.com
 127.0.0.1 adnews.maddog2000.de
 127.0.0.1 adnium.com
-127.0.0.1 adnotch.com
 127.0.0.1 adnxs.com
 127.0.0.1 adocean.pl
 127.0.0.1 adonspot.com
@@ -496,7 +497,6 @@
 127.0.0.1 ads.img.co.za
 127.0.0.1 ads.imgur.com
 127.0.0.1 ads.independent.com.mt
-127.0.0.1 ads.indiatimes.com
 127.0.0.1 ads.infi.net
 127.0.0.1 ads.internic.co.il
 127.0.0.1 ads.ipowerweb.com
@@ -973,12 +973,10 @@
 127.0.0.1 analytics.swiggy.com
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 aniview.com
-127.0.0.1 anm.intelli-direct.com
 127.0.0.1 annonser.dagbladet.no
 127.0.0.1 anrdoezrs.net
 127.0.0.1 anstrex.com
 127.0.0.1 anxiousapples.com
-127.0.0.1 aobocker.se
 127.0.0.1 apathetictheory.com
 127.0.0.1 api.intensifier.de
 127.0.0.1 api.jetlore.com
@@ -1238,8 +1236,10 @@
 127.0.0.1 calculatorcamera.com
 127.0.0.1 callousbrake.com
 127.0.0.1 callrail.com
+127.0.0.1 calmcactus.com
 127.0.0.1 campaign.bharatmatrimony.com
 127.0.0.1 caniamedia.com
+127.0.0.1 cannads.urgrafix.com
 127.0.0.1 capablecows.com
 127.0.0.1 captainbicycle.com
 127.0.0.1 carambo.la
@@ -1299,6 +1299,7 @@
 127.0.0.1 click.a-ads.com
 127.0.0.1 click.fool.com
 127.0.0.1 click.kmindex.ru
+127.0.0.1 click.twcwigs.com
 127.0.0.1 click2freemoney.com
 127.0.0.1 clickability.com
 127.0.0.1 clickadz.com
@@ -1376,6 +1377,7 @@
 127.0.0.1 contaxe.de
 127.0.0.1 content.acc-hd.de
 127.0.0.1 content.ad
+127.0.0.1 content22.online.citi.com
 127.0.0.1 contextweb.com
 127.0.0.1 converge-digital.com
 127.0.0.1 conversantmedia.com
@@ -1502,6 +1504,7 @@
 127.0.0.1 discountclick.com
 127.0.0.1 discreetfield.com
 127.0.0.1 dispensablestranger.com
+127.0.0.1 displayadsmedia.com
 127.0.0.1 disqusads.com
 127.0.0.1 dist.belnk.com
 127.0.0.1 distillery.wistia.com
@@ -1518,7 +1521,6 @@
 127.0.0.1 domainsponsor.com
 127.0.0.1 domainsteam.de
 127.0.0.1 domdex.com
-127.0.0.1 dontstopmyads.live
 127.0.0.1 doubleclick.com
 127.0.0.1 doubleclick.de
 127.0.0.1 doubleclick.net
@@ -1576,7 +1578,6 @@
 127.0.0.1 emarketer.com
 127.0.0.1 emebo.com
 127.0.0.1 emebo.io
-127.0.0.1 emediate.eu
 127.0.0.1 emerse.com
 127.0.0.1 emetriq.de
 127.0.0.1 emjcd.com
@@ -2270,7 +2271,6 @@
 127.0.0.1 mystat.pl
 127.0.0.1 mysteriousmonth.com
 127.0.0.1 mytop-in.net
-127.0.0.1 mytrafficads.com
 127.0.0.1 myvisualiq.net
 127.0.0.1 n69.com
 127.0.0.1 naj.sk
@@ -2989,7 +2989,6 @@
 127.0.0.1 tatsumi-sys.jp
 127.0.0.1 tawdryson.com
 127.0.0.1 tcads.net
-127.0.0.1 tdxio.com
 127.0.0.1 teads.tv
 127.0.0.1 tealeaf.com
 127.0.0.1 tealium.com
@@ -3010,7 +3009,6 @@
 127.0.0.1 textad.sexsearch.com
 127.0.0.1 textads.biz
 127.0.0.1 textlinks.com
-127.0.0.1 tfag.de
 127.0.0.1 the-o127.0.0.1-project.com
 127.0.0.1 theadex.com
 127.0.0.1 theadhost.com
@@ -3093,6 +3091,7 @@
 127.0.0.1 tracker.samplicio.us
 127.0.0.1 tracker.vgame.us
 127.0.0.1 tracking.1-a1502-bi.co.uk
+127.0.0.1 tracking.1-kv015-ap.co.uk
 127.0.0.1 tracking.5-47737-bi.co.uk
 127.0.0.1 tracking.crunchiemedia.com
 127.0.0.1 tracking.epicgames.com
