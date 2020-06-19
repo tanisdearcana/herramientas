@@ -42,7 +42,9 @@
 127.0.0.1 a.vfgtb.com
 127.0.0.1 a.xanga.com
 127.0.0.1 a135.wftv.com
+127.0.0.1 aa-metrics.trip-ai.jp
 127.0.0.1 aaddzz.com
+127.0.0.1 aax-eu-dub.amazon.com
 127.0.0.1 aaxads.com
 127.0.0.1 aaxdetect.com
 127.0.0.1 abacho.net
@@ -296,7 +298,6 @@
 127.0.0.1 admedia.com
 127.0.0.1 admeld.com
 127.0.0.1 admeridianads.com
-127.0.0.1 admerize.be
 127.0.0.1 admeta.com
 127.0.0.1 admex.com
 127.0.0.1 admidadsp.com
@@ -350,7 +351,6 @@
 127.0.0.1 ads-click.com
 127.0.0.1 ads-dev.pinterest.com
 127.0.0.1 ads-game-187f4.firebaseapp.com
-127.0.0.1 ads-software.net
 127.0.0.1 ads-trk.vidible.tv
 127.0.0.1 ads-twitter.com
 127.0.0.1 ads.4tube.com
@@ -829,6 +829,7 @@
 127.0.0.1 adtoma.com
 127.0.0.1 adtrace.org
 127.0.0.1 adtrade.net
+127.0.0.1 adtrak.net
 127.0.0.1 adtriplex.com
 127.0.0.1 adultadvertising.com
 127.0.0.1 adv-adserver.com
@@ -960,6 +961,7 @@
 127.0.0.1 analytics.icons8.com
 127.0.0.1 analytics.inlinemanual.com
 127.0.0.1 analytics.jabong.com
+127.0.0.1 analytics.jst.ai
 127.0.0.1 analytics.live.com
 127.0.0.1 analytics.mailmunch.co
 127.0.0.1 analytics.myfinance.com
@@ -972,6 +974,7 @@
 127.0.0.1 analytics.siliconexpert.com
 127.0.0.1 analytics.swiggy.com
 127.0.0.1 analytics.yahoo.com
+127.0.0.1 analyticsapi.happypancake.net
 127.0.0.1 aniview.com
 127.0.0.1 annonser.dagbladet.no
 127.0.0.1 anrdoezrs.net
@@ -1078,7 +1081,6 @@
 127.0.0.1 bannerconnect.com
 127.0.0.1 bannerconnect.net
 127.0.0.1 bannergrabber.internet.gr
-127.0.0.1 bannerhost.com
 127.0.0.1 bannerimage.com
 127.0.0.1 bannerlandia.com.ar
 127.0.0.1 bannermall.com
@@ -1114,6 +1116,7 @@
 127.0.0.1 bannerspace.com
 127.0.0.1 bannerswap.com
 127.0.0.1 bannertesting.com
+127.0.0.1 bannertrack.net
 127.0.0.1 bannery.cz
 127.0.0.1 bannieres.acces-contenu.com
 127.0.0.1 bans.bride.ru
@@ -1370,6 +1373,7 @@
 127.0.0.1 concernedcondition.com
 127.0.0.1 conductrics.com
 127.0.0.1 connatix.com
+127.0.0.1 connectad.io
 127.0.0.1 connextra.com
 127.0.0.1 consciouschairs.com
 127.0.0.1 consensad.com
@@ -1655,6 +1659,7 @@
 127.0.0.1 fadedprofit.com
 127.0.0.1 fadedsnow.com
 127.0.0.1 famousquarter.com
+127.0.0.1 faracoon.com
 127.0.0.1 farethief.com
 127.0.0.1 farmergoldfish.com
 127.0.0.1 fascinatedfeather.com
@@ -1720,7 +1725,6 @@
 127.0.0.1 fullstory.com
 127.0.0.1 functionalcrown.com
 127.0.0.1 funklicks.com
-127.0.0.1 funpageexchange.com
 127.0.0.1 fusionads.net
 127.0.0.1 fusionquest.com
 127.0.0.1 futuristicapparatus.com
@@ -1787,6 +1791,7 @@
 127.0.0.1 h3btqpy2abc3.com
 127.0.0.1 h78xb.pw
 127.0.0.1 h92zbpn4zcv1.com
+127.0.0.1 habitualhumor.com
 127.0.0.1 hadskiz.com
 127.0.0.1 hammerhearing.com
 127.0.0.1 handyfield.com
@@ -1848,6 +1853,7 @@
 127.0.0.1 hoverowl.com
 127.0.0.1 how-to-create-a-resignation-letter.com
 127.0.0.1 hs-analytics.net
+127.0.0.1 hs-banner.com
 127.0.0.1 hsadspixel.net
 127.0.0.1 htlbid.com
 127.0.0.1 httpool.com
@@ -2374,8 +2380,10 @@
 127.0.0.1 openad.travelnow.com
 127.0.0.1 openads.friendfinder.com
 127.0.0.1 openads.org
+127.0.0.1 openadsnetwork.com
 127.0.0.1 opentag-stats.qubit.com
 127.0.0.1 openx.angelsgroup.org.uk
+127.0.0.1 openx.smcaen.fr
 127.0.0.1 operationkettle.com
 127.0.0.1 opienetwork.com
 127.0.0.1 opmnstr.com
@@ -2407,7 +2415,6 @@
 127.0.0.1 pagead.l.google.com
 127.0.0.1 pagefair.com
 127.0.0.1 pagefair.net
-127.0.0.1 pagerank-ranking.de
 127.0.0.1 pagerank4you.com
 127.0.0.1 pageranktop.com
 127.0.0.1 paleleaf.com
@@ -2675,7 +2682,6 @@
 127.0.0.1 richmails.com
 127.0.0.1 richmedia.yimg.com
 127.0.0.1 richstring.com
-127.0.0.1 richwebmaster.com
 127.0.0.1 rightstats.com
 127.0.0.1 rinconpx.net
 127.0.0.1 ringsrecord.com
@@ -2699,6 +2705,7 @@
 127.0.0.1 rsalcdp.com
 127.0.0.1 rta.dailymail.co.uk
 127.0.0.1 rtb.gumgum.com
+127.0.0.1 rtb.openx.net
 127.0.0.1 rtbadzesto.com
 127.0.0.1 rtbflairads.com
 127.0.0.1 rtbidhost.com
@@ -2801,6 +2808,7 @@
 127.0.0.1 sinoa.com
 127.0.0.1 sitedataprocessing.com
 127.0.0.1 siteimproveanalytics.com
+127.0.0.1 siteimproveanalytics.io
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 sitemeter.com
 127.0.0.1 sixscissors.com
@@ -2828,6 +2836,7 @@
 127.0.0.1 smilingwaves.com
 127.0.0.1 smrtb.com
 127.0.0.1 snapads.com
+127.0.0.1 sneakystamp.com
 127.0.0.1 snoobi.com
 127.0.0.1 socialspark.com
 127.0.0.1 softclick.com.br
@@ -2963,6 +2972,7 @@
 127.0.0.1 t.insigit.com
 127.0.0.1 t.irtyd.com
 127.0.0.1 taboola.com
+127.0.0.1 tag.links-analytics.com
 127.0.0.1 tagan.adlightning.com
 127.0.0.1 tagger.opecloud.com
 127.0.0.1 tags.tiqcdn.com
@@ -3097,7 +3107,6 @@
 127.0.0.1 tracking.epicgames.com
 127.0.0.1 tracking.gajmp.com
 127.0.0.1 tracking.ibxlink.com
-127.0.0.1 tracking.inlocomedia.com
 127.0.0.1 tracking.internetstores.de
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 tracking.miui.com
@@ -3310,6 +3319,7 @@
 127.0.0.1 wondoads.de
 127.0.0.1 woopra.com
 127.0.0.1 worldwide-cash.net
+127.0.0.1 worldwidedigitalads.com
 127.0.0.1 worriednumber.com
 127.0.0.1 worrybutter.com
 127.0.0.1 wpnrtnmrewunrtok.xyz
