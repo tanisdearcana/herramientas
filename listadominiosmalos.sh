@@ -18,5 +18,5 @@ grep -v // dominiosdnsabloquear > limpio
 awk -F ' ' '{print $1,$2}' limpio > limpiotohole
 rm dominiosdnsabloquear
 rm limpio
-rm limpio01
+#rm limpio01
 echo Fin del proceso, se puede subir a github para  que pihole corte estos dominios
